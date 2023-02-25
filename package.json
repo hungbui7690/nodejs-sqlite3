@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-sqlite3",
+  "description": "Using sqlite3 as a database in NodeJS",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungbui7690/nodejs-sqlite3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungbui7690/nodejs-sqlite3/issues"
+  },
+  "homepage": "https://github.com/hungbui7690/nodejs-sqlite3#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.4"
+  }
+}
